@@ -9,9 +9,6 @@ To start rickrollin’ immediately:
 
     curl -s -L https://raw.githubusercontent.com/Cache-Cow/rickrollrc/master/roll.sh | bash
 
-Here is the clandestine command you can give to your friends 😈
-
-    curl -s -L http://bit.ly/10hA8iC | bash
 
 ![rickroll in xterm](http://i.imgur.com/ZAsQWtP.png)
 ![rickroll in mac](http://i.imgur.com/yDLaZna.png)
