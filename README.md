@@ -4,6 +4,7 @@ Bash script which [rickrolls](http://en.wikipedia.org/wiki/Rickrolling) your
 terminal by playing Rick Astley’s “Never Gonna Give You Up” with ANSI 256-color
 coded UTF-8 characters + audio (if available).
 
+99.9% of credit goes to Kiserne, all I did was make it compatible with the new verison of MacOS 
 ## How to Roll
 To start rickrollin’ immediately:
 
